@@ -1,0 +1,2 @@
+Overview:
+The Snake Game is a classic arcade-style game where the player controls a snake that moves continuously on a grid or screen. The primary objective is to guide the snake to eat food items that appear randomly, causing the snake to grow longer. The game challenges the player to avoid collisions with the walls or the snake’s own body, which results in the game ending.
